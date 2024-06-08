@@ -10,7 +10,6 @@ Ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Keep descriptions short and simple.
-- Don't mention `XML` in the description as it's implied.
 - End all descriptions with a full stop/period.
 - Make sure to check your spelling and grammar.
 - Try to make your Pull request and title as descriptive as possible.
