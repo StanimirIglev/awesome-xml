@@ -63,7 +63,7 @@ A list of W3C standards closely related to XML.
 - [XQuery](https://www.w3.org/XML/Query/) - a language for querying XML data.
 - [XProc](https://www.w3.org/TR/xproc/) - a language for defining XML processing pipelines.
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Processing Libraries
 
@@ -111,7 +111,7 @@ A list of W3C standards closely related to XML.
 - [quick-xml](https://crates.io/crates/quick-xml)
 
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Command-Line Tools
 ❗ This section is a work in progress. If you know of any other tools, please contribute! ❗
@@ -119,7 +119,7 @@ A list of W3C standards closely related to XML.
 - [xmlstarlet](http://xmlstar.sourceforge.net/) - a command-line XML tool that can be used to query, edit, and transform XML documents.
 - [xq](https://github.com/sibprogrammer/xq) - a command-line XML beautifier and content extractor.
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Online Tools
 A small excerpt of the many online tools for XML processing.
@@ -127,7 +127,7 @@ A small excerpt of the many online tools for XML processing.
 - JSON Formatter XML Tools - [Formatter](https://jsonformatter.org/xml-formatter), [Minify](https://jsonformatter.org/xml-minify), [Viewer](https://jsonformatter.org/xml-viewer), [XML Pretty Print](https://jsonformatter.org/xml-pretty-print), [Validator](https://jsonformatter.org/xml-validator), [Editor](https://jsonformatter.org/xml-editor), [Parser](https://jsonformatter.org/xml-parser)
 - Code Beautify XML Tools - [Coverter](https://codebeautify.org/xml-converter-online), [Generator](https://codebeautify.org/generate-random-xml), [Difftool](https://codebeautify.org/xml-diff), [Minify](https://codebeautify.org/xml-minifier), [Editor](https://codebeautify.org/online-xml-editor), [Parser](https://codebeautify.org/xml-parser-online), [Validator](https://codebeautify.org/xmlvalidator), [Viewer](https://codebeautify.org/xmlviewer)
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Validation
 
@@ -146,7 +146,7 @@ A small excerpt of the many online tools for XML processing.
   - Part of DSDL - the [ISO/IEC 19757-3 standard](https://www.iso.org/standard/74515.html).
   - Additional resources: [Wiki](https://en.wikipedia.org/wiki/Schematron), [Tutorial](https://www.xml.com/pub/a/2003/11/12/schematron.html)
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## XML-based Formats/Languages
@@ -194,7 +194,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Extensible HyperText Markup Language (XHTML)](https://html.spec.whatwg.org/) - a reformulation of HTML.
   - [Wiki](https://en.wikipedia.org/wiki/XHTML), [Tutorial](https://www.tutorialspoint.com/xhtml/index.htm)
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## Community
@@ -210,7 +210,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Balisage](https://www.balisage.net/) - an annual conference devoted to descriptive markup
 - [Markup UK](https://markupuk.org/) - a conference about XML and other markup technologies
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## Tutorials
@@ -220,7 +220,7 @@ A list of tutorials that provide a good introduction to the XML ecosystem.
 - [Tutorials Point XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - beginners intro to XML and related technologies.
 - [Javatpoint XML Tutorial](https://www.javatpoint.com/xml-tutorial) - covers XML, XML validation, XPath, XQuery, and XSLT.
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## Books
@@ -235,7 +235,7 @@ Note that many of these books are available online for free - a quick Google sea
 - [Sams Teach Yourself XML in 24 Hours](https://www.goodreads.com/book/show/831166) by Michael Morrison
 - [Professional XML](https://www.goodreads.com/book/show/684553.Professional_XML) - Didier Martin, Michael Kay, Stephen F. Mohr
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## Browser Extensions
@@ -253,7 +253,7 @@ Note that many of these books are available online for free - a quick Google sea
 - [XML Tools](https://chromewebstore.google.com/detail/xml-tools/pjlccigfdcjmbgbmaidfgmchilpfomam) - collection of tools for XML - conversion, formatting, minification, etc.
 - [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/piocgilonokogjhfcillbljpifenhabk) - another XML formatter
 
-<div style="text-align: right"><a href="#contents"><b>🔝 back to top 🔝</b></a></div>
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
 ## Contribute
