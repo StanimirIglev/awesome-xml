@@ -210,6 +210,15 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Balisage](https://www.balisage.net/) - an annual conference devoted to descriptive markup
 - [Markup UK](https://markupuk.org/) - a conference about XML and other markup technologies
 
+### Blogs
+- [Michael Kay's Blog / Saxon Diaries](https://blog.saxonica.com/mike/)
+- [DeltaBlog - DeltaXML](https://www.deltaxml.com/blog/)
+- [XML Aficionado](https://xmlaficionado.com/)
+- [XML Press Blog](https://xmlpress.net/xml-press-blog/)
+- [Oxygen XML Blog](https://blog.oxygenxml.com/)
+- [Altova's Blog](https://www.altova.com/blog/)
+- [Inera's Blog](https://inera.com/blog/)
+
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
