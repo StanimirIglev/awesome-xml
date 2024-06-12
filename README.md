@@ -114,10 +114,17 @@ A list of W3C standards closely related to XML.
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Command-Line Tools
-❗ This section is a work in progress. If you know of any other tools, please contribute! ❗
-- [xmllint](http://xmlsoft.org/xmllint.html) - a command-line XML tool that comes with libxml2.
-- [xmlstarlet](http://xmlstar.sourceforge.net/) - a command-line XML tool that can be used to query, edit, and transform XML documents.
-- [xq](https://github.com/sibprogrammer/xq) - a command-line XML beautifier and content extractor.
+A collection of command-line tools for XML processing.
+
+- [xmllint](http://xmlsoft.org/xmllint.html) - a multifaceted XML tool that comes with libxml2.
+- [xmlstarlet](http://xmlstar.sourceforge.net/) - a set of utilities for querying, editing, validating, and transforming XML documents.
+- [xq](https://github.com/sibprogrammer/xq) - beautifier and content extractor.
+- [dasel](https://github.com/TomWright/dasel) - query and modify data structures using standart selector strings. Supports XML among others.
+- [graphtage](https://github.com/trailofbits/graphtage) - semantically compare and merge tree-like structures.
+- [HTML-XML-utils](https://www.w3.org/Tools/HTML-XML-utils/) - a collection of utilities for XML/HTML manipulation.
+- [Saxon](https://www.saxonica.com/welcome/welcome.xml) - XML processor supporting XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. (Note: **only the HE version is free**.)
+- [tidy (libtidy)](http://www.html-tidy.org/) - correct and clean-up HTML and XML documents.
+- [xsltproc (libxslt)](https://gitlab.gnome.org/GNOME/libxslt/-/wikis/home) - XSLT processor for the application of stylesheets to XML documents.
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
