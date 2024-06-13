@@ -253,6 +253,17 @@ Note that many of these books are available online for free - a quick Google sea
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
+## Visual Studio Code Extensions
+- [XML (Red Hat)](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - support for creating and editing documents, based on the [LemMinX XML Server](https://github.com/eclipse/lemminx)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tags
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML Formatting, XQuery, and XPath Tools for Visual Studio Code
+- [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment) - Generate XML documentation comments
+- [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Live preview of SVG files
+- [Pretty XML](https://marketplace.visualstudio.com/items?itemName=PrateekMahendrakar.prettyxml) - XML formatter
+- [XML Toolkit](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) - Syntax and well-formedness validation
+
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## Browser Extensions
 
