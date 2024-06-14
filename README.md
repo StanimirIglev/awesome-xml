@@ -27,6 +27,7 @@ A curated list of awesome XML libraries and resources.
   - [Conferences](#conferences)
 - [Tutorials](#tutorials)
 - [Books](#books)
+- [VS Code Extensions](#visual-studio-code-extensions)
 - [Browser Extensions](#browser-extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Google Chrome](#google-chrome)
