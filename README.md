@@ -27,6 +27,7 @@ A curated list of awesome XML libraries and resources.
   - [Conferences](#conferences)
 - [Tutorials](#tutorials)
 - [Books](#books)
+- [Editors (validating)](#editors-validating)
 - [Browser Extensions](#browser-extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Google Chrome](#google-chrome)
@@ -243,6 +244,31 @@ Note that many of these books are available online for free - a quick Google sea
 - [Beginning XML](https://www.goodreads.com/book/show/13319079-beginning-xml) - Joe Fawcett, Danny Ayers, Liam R. E. Quin
 - [Sams Teach Yourself XML in 24 Hours](https://www.goodreads.com/book/show/831166) by Michael Morrison
 - [Professional XML](https://www.goodreads.com/book/show/684553.Professional_XML) - Didier Martin, Michael Kay, Stephen F. Mohr
+
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+
+
+## Editors (validating)
+These are standalone XML editors with the inherent capability to validate XML against a DTD or schema.
+Browser-based XML editors (such as under [Browser Extensions](#browser-extensions) and general text editors like Notepad&#x002B;&#x002B; and Vim are not included.
+
+### Free
+- [XML Copy Editor](https://xml-copy-editor.sourceforge.io/) - GPLv2 license.
+- [XML Notepad](https://microsoft.github.io/XmlNotepad/#) - MIT license.
+- [XMLPad](https://www.softpedia.com/get/Programming/File-Editors/XMLPad.shtml)
+
+### Commercial, but with a free for personal use version
+- [Liquid Studio XML Editor](https://www.liquid-technologies.com/xml-editor)
+- [XMLmind XML Editor](https://www.xmlmind.com/xmleditor/)
+
+### Commercial
+- [Adobe Framemaker](https://www.adobe.com/products/framemaker.html)
+- [Arbortext Editor](https://www.ptc.com/en/products/arbortext)
+- [Oxygen XML Editor](https://www.oxygenxml.com/)
+- [Stylus Studio](https://www.stylusstudio.com/xml/editor/)
+- [XML ValidatorBuddy](https://www.xml-buddy.com/)
+- [XML Spy](https://www.altova.com/xmlspy-xml-editor)
+- [XMetal Author](https://xmetal.com/content-xmetal-author/)
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
