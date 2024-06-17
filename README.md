@@ -23,7 +23,7 @@ A curated list of awesome XML libraries and resources.
   - [Schema Languages](#schema-languages)
 - [XML-based Formats/Languages](#xml-based-formatslanguages)
 - [Community](#community)
-  - [Websites/Forums](#websitesforums)
+  - [Websites/Forums/Lists](#websitesforumslists)
   - [Conferences](#conferences)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -207,11 +207,14 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 
 ## Community
 
-### Websites/Forums
+### Websites/Forums/Lists
 - [XML.com](https://www.xml.com) - a site for XML resources, tutorials, and news.
 - [XML.org](https://www.xml.org) - a community-driven site for XML resources.
+  - [XML-DEV](https://www.xml.org/xml-dev) - active mailing list on XML.org.
 - [r/xml](https://www.reddit.com/r/xml/) - a subreddit for XML discussions.
 - [XML @ Stack Overflow](https://stackoverflow.com/questions/tagged/xml) - XML-related discussions on Stack Overflow.
+- [XSL-List](https://www.mulberrytech.com/xsl/xsl-list/index.html) - mailing list for XSLT questions and applications.
+- [Schematron](http://schematronist.org/mailman/listinfo/schematron_schematronist.org) - mailing list for Schematron discussions.
 
 ### Conferences
 - [XML Prague](https://www.xmlprague.cz/) - an annual conference on markup languages and data on the web.
