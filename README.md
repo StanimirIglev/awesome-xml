@@ -201,6 +201,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [Wiki](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial), [W3Schools Tutorial](https://www.w3schools.com/graphics/svg_intro.asp), [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 - [Extensible HyperText Markup Language (XHTML)](https://html.spec.whatwg.org/) - a reformulation of HTML.
   - [Wiki](https://en.wikipedia.org/wiki/XHTML), [Tutorial](https://www.tutorialspoint.com/xhtml/index.htm)
+- [XSpec](https://xspec.io/) - a unit test and behaviour-driven development (BDD) framework for XSLT, XQuery, and Schematron.
+  - [Wiki](https://github.com/xspec/xspec/wiki)
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
