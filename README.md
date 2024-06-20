@@ -1,9 +1,10 @@
 # Awesome XML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome XML libraries and resources.
+A curated list of the best tools, libraries, tutorials, and more for all things XML-related.
 
 
 ## Contents
 - [The XML Family (in a nutshell)](#the-xml-family-in-a-nutshell)
+- [Drafts and Community Advances](#drafts-and-community-advances)
 - [Processing Libraries](#processing-libraries)
   - [C](#c)
   - [C++](#c-1)
@@ -63,6 +64,16 @@ A list of W3C standards closely related to XML.
 - [XML Key Management Specification (XKMS)](https://www.w3.org/TR/xkms2/) - a protocol for managing cryptographic keys within XML applications.
 - [XQuery](https://www.w3.org/XML/Query/) - a language for querying XML data.
 - [XProc](https://www.w3.org/TR/xproc/) - a language for defining XML processing pipelines.
+
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+
+## Drafts and Community Advances
+A collection of actively developed drafts and community-driven XML-related projects.
+
+- [MicroXML](https://dvcs.w3.org/hg/microxml/raw-file/tip/spec/microxml.html)
+  - [Community Group](https://www.w3.org/community/microxml/)
+- [Invisible XML](https://invisiblexml.org/current/)
+  - [Community Group](https://www.w3.org/community/ixml/), [GitHub](https://github.com/invisibleXML/)
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
