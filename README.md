@@ -22,6 +22,7 @@ A curated list of the best tools, libraries, tutorials, and more for all things 
 - [Online Tools](#online-tools)
 - [Validation](#validation)
   - [Schema Languages](#schema-languages)
+- [Native XML Databases](#native-xml-databases)
 - [XML-based Formats/Languages](#xml-based-formatslanguages)
 - [Community](#community)
   - [Websites/Forums/Lists](#websitesforumslists)
@@ -167,6 +168,21 @@ A small excerpt of the many online tools for XML processing.
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
+## Native XML Databases
+A list of XML databases that store and query XML data natively.
+
+- [BaseX](http://basex.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/BaseX), [Documentation](http://docs.basex.org/), [GitHub](https://github.com/BaseXdb/basex)
+- [Berkeley DB XML](https://www.oracle.com/database/technologies/related/berkeleydb.html)
+  - [Wiki](https://en.wikipedia.org/wiki/Berkeley_DB_XML), [Documentation](https://docs.oracle.com/cd/E17276_01/html/index.html), [GitHub](https://github.com/berkeleydb/dbxml)
+- [eXist-db](https://exist-db.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/EXist), [Documentation](https://exist-db.org/exist/apps/doc/), [GitHub](https://github.com/exist-db/exist/)
+- [MonetDB](https://www.monetdb.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/MonetDB), [Documentation](https://www.monetdb.org/documentation-Dec2023/), [Repository](https://www.monetdb.org/hg/MonetDB/file/)
+- [Sedna](https://www.sedna.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/Sedna_(database)), [Documentation](https://www.sedna.org/documentation.html), [GitHub](https://github.com/sedna/sedna)
+
+<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 ## XML-based Formats/Languages
 A curated list of popular formats and languages that use the XML syntax (often defined via a schema). 
