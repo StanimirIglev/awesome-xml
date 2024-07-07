@@ -27,6 +27,8 @@ A curated list of the best tools, libraries, tutorials, and more for all things 
 - [Community](#community)
   - [Websites/Forums/Lists](#websitesforumslists)
   - [Conferences](#conferences)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [VS Code Extensions](#visual-studio-code-extensions)
@@ -259,6 +261,9 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Altova's Blog](https://www.altova.com/blog/)
 - [Inera's Blog](https://inera.com/blog/)
 
+### Articles
+- [In defense of XML](https://blog.frankel.ch/defense-xml/) by Nicolas Fränkel.
+
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
 
@@ -268,6 +273,7 @@ A list of tutorials that provide a good introduction to the XML ecosystem.
 - [W3Schools XML Tutorial](https://www.w3schools.com/xml/) - covers XML, XPath, XSLT, XQuery, DTD, XSD, AJAX, DOM, and several XML-based web services.
 - [Tutorials Point XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - beginners intro to XML and related technologies.
 - [Javatpoint XML Tutorial](https://www.javatpoint.com/xml-tutorial) - covers XML, XML validation, XPath, XQuery, and XSLT.
+- [XMLFiles Tutorials and Guides](https://www.xmlfiles.com/) - covers basics, XSL, DTD, DOM, RSS feeds, SEO, XBRL, XHTML, and other awesome articles.
 
 <p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
 
