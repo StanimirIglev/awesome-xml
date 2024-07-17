@@ -238,14 +238,11 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 
 ## Community
 
-### Websites/Forums/Lists
+### Websites/Forums
 - [XML.com](https://www.xml.com) - a site for XML resources, tutorials, and news.
 - [XML.org](https://www.xml.org) - a community-driven site for XML resources.
-  - [XML-DEV](https://www.xml.org/xml-dev) - active mailing list on XML.org.
 - [r/xml](https://www.reddit.com/r/xml/) - a subreddit for XML discussions.
 - [XML @ Stack Overflow](https://stackoverflow.com/questions/tagged/xml) - XML-related discussions on Stack Overflow.
-- [XSL-List](https://www.mulberrytech.com/xsl/xsl-list/index.html) - mailing list for XSLT questions and applications.
-- [Schematron](http://schematronist.org/mailman/listinfo/schematron_schematronist.org) - mailing list for Schematron discussions.
 
 ### Conferences
 - [XML Prague](https://www.xmlprague.cz/) - an annual conference on markup languages and data on the web.
@@ -260,6 +257,11 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Oxygen XML Blog](https://blog.oxygenxml.com/)
 - [Altova's Blog](https://www.altova.com/blog/)
 - [Inera's Blog](https://inera.com/blog/)
+
+### Mailing Lists
+- [XSL-List](https://www.mulberrytech.com/xsl/xsl-list/index.html) - mailing list for XSLT questions and applications.
+- [Schematron](http://schematronist.org/mailman/listinfo/schematron_schematronist.org) - mailing list for Schematron discussions.
+- [XML-DEV](https://www.xml.org/xml-dev) - active mailing list on XML.org.
 
 ### Articles
 - [In defense of XML](https://blog.frankel.ch/defense-xml/) by Nicolas Fränkel.
