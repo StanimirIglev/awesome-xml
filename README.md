@@ -68,7 +68,7 @@ A list of W3C standards closely related to XML.
 - [XQuery](https://www.w3.org/XML/Query/) - a language for querying XML data.
 - [XProc](https://www.w3.org/TR/xproc/) - a language for defining XML processing pipelines.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Drafts and Community Advances
 A collection of actively developed drafts and community-driven XML-related projects.
@@ -78,7 +78,7 @@ A collection of actively developed drafts and community-driven XML-related proje
 - [Invisible XML](https://invisiblexml.org/current/)
   - [Community Group](https://www.w3.org/community/ixml/), [GitHub](https://github.com/invisibleXML/)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Processing Libraries
 
@@ -126,7 +126,7 @@ A collection of actively developed drafts and community-driven XML-related proje
 - [quick-xml](https://crates.io/crates/quick-xml)
 
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Command-Line Tools
 A collection of command-line tools for XML processing.
@@ -141,7 +141,7 @@ A collection of command-line tools for XML processing.
 - [tidy (libtidy)](http://www.html-tidy.org/) - correct and clean-up HTML and XML documents.
 - [xsltproc (libxslt)](https://gitlab.gnome.org/GNOME/libxslt/-/wikis/home) - XSLT processor for the application of stylesheets to XML documents.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Online Tools
 A small excerpt of the many online tools for XML processing.
@@ -149,7 +149,7 @@ A small excerpt of the many online tools for XML processing.
 - JSON Formatter XML Tools - [Formatter](https://jsonformatter.org/xml-formatter), [Minify](https://jsonformatter.org/xml-minify), [Viewer](https://jsonformatter.org/xml-viewer), [XML Pretty Print](https://jsonformatter.org/xml-pretty-print), [Validator](https://jsonformatter.org/xml-validator), [Editor](https://jsonformatter.org/xml-editor), [Parser](https://jsonformatter.org/xml-parser)
 - Code Beautify XML Tools - [Coverter](https://codebeautify.org/xml-converter-online), [Generator](https://codebeautify.org/generate-random-xml), [Difftool](https://codebeautify.org/xml-diff), [Minify](https://codebeautify.org/xml-minifier), [Editor](https://codebeautify.org/online-xml-editor), [Parser](https://codebeautify.org/xml-parser-online), [Validator](https://codebeautify.org/xmlvalidator), [Viewer](https://codebeautify.org/xmlviewer)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Validation
 
@@ -168,7 +168,7 @@ A small excerpt of the many online tools for XML processing.
   - Part of DSDL - the [ISO/IEC 19757-3 standard](https://www.iso.org/standard/74515.html).
   - Additional resources: [Wiki](https://en.wikipedia.org/wiki/Schematron), [Tutorial](https://www.xml.com/pub/a/2003/11/12/schematron.html)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Native XML Databases
 A list of XML databases that store and query XML data natively.
@@ -184,7 +184,7 @@ A list of XML databases that store and query XML data natively.
 - [Sedna](https://www.sedna.org/)
   - [Wiki](https://en.wikipedia.org/wiki/Sedna_(database)), [Documentation](https://www.sedna.org/documentation.html), [GitHub](https://github.com/sedna/sedna)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## XML-based Formats/Languages
 A curated list of popular formats and languages that use the XML syntax (often defined via a schema). 
@@ -233,7 +233,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [XSpec](https://xspec.io/) - a unit test and behaviour-driven development (BDD) framework for XSLT, XQuery, and Schematron.
   - [Wiki](https://github.com/xspec/xspec/wiki)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Community
@@ -264,7 +264,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 ### Articles
 - [In defense of XML](https://blog.frankel.ch/defense-xml/) by Nicolas Fränkel.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Tutorials
@@ -275,7 +275,7 @@ A list of tutorials that provide a good introduction to the XML ecosystem.
 - [Javatpoint XML Tutorial](https://www.javatpoint.com/xml-tutorial) - covers XML, XML validation, XPath, XQuery, and XSLT.
 - [XMLFiles Tutorials and Guides](https://www.xmlfiles.com/) - covers basics, XSL, DTD, DOM, RSS feeds, SEO, XBRL, XHTML, and other awesome articles.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Books
@@ -290,7 +290,7 @@ Note that many of these books are available online for free - a quick Google sea
 - [Sams Teach Yourself XML in 24 Hours](https://www.goodreads.com/book/show/831166) by Michael Morrison
 - [Professional XML](https://www.goodreads.com/book/show/684553.Professional_XML) - Didier Martin, Michael Kay, Stephen F. Mohr
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Visual Studio Code Extensions
 - [XML (Red Hat)](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - support for creating and editing documents, based on the [LemMinX XML Server](https://github.com/eclipse/lemminx)
@@ -302,7 +302,7 @@ Note that many of these books are available online for free - a quick Google sea
 - [Pretty XML](https://marketplace.visualstudio.com/items?itemName=PrateekMahendrakar.prettyxml) - XML formatter
 - [XML Toolkit](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) - Syntax and well-formedness validation
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Browser Extensions
 
@@ -319,7 +319,7 @@ Note that many of these books are available online for free - a quick Google sea
 - [XML Tools](https://chromewebstore.google.com/detail/xml-tools/pjlccigfdcjmbgbmaidfgmchilpfomam) - collection of tools for XML - conversion, formatting, minification, etc.
 - [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/piocgilonokogjhfcillbljpifenhabk) - another XML formatter
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Contribute
