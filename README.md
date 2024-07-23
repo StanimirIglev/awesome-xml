@@ -77,6 +77,8 @@ A collection of actively developed drafts and community-driven XML-related proje
   - [Community Group](https://www.w3.org/community/microxml/)
 - [Invisible XML](https://invisiblexml.org/current/)
   - [Community Group](https://www.w3.org/community/ixml/), [GitHub](https://github.com/invisibleXML/)
+- [QT4 (XQuery and XSLT extensions)](https://qt4cg.org/)
+  - [Community Group](https://www.w3.org/community/xslt-40/), [GitHub](https://github.com/qt4cg/)
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
@@ -192,6 +194,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 
 ❗ The goal for this section is to have a list of established formats with links to resources, such as specifications, schemas, and tutorials. Feel free to contribute! ❗
 
+- [Analytical Information Markup Language(AnIML)](https://www.animl.org/) - XML standard for analytical chemistry and biological data.
+  - [XSD Schemas](https://www.animl.org/current-schema), [GitHub](https://github.com/AnIML)
 - [Atom](https://tools.ietf.org/html/rfc4287) - a web feed format.
   - [Wiki](https://en.wikipedia.org/wiki/Atom_(Web_standard)), [Tutorial](https://validator.w3.org/feed/docs/atom.html)
 - [CDF Markup Language (CDFML)](https://cdf.gsfc.nasa.gov/html/faq.html)
