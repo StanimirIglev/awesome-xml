@@ -254,6 +254,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [XML Prague](https://www.xmlprague.cz/) - an annual conference on markup languages and data on the web.
 - [Balisage](https://www.balisage.net/) - an annual conference devoted to descriptive markup
 - [Markup UK](https://markupuk.org/) - a conference about XML and other markup technologies
+- [Declarative Amsterdam](https://declarative.amsterdam/) - a conference on the technologies and methods used for declarative programming and data
+- [XML Summer School](https://xmlsummerschool.org/) - a week-long event comprised of courses for XML and related technologies
 
 ### Blogs
 - [Michael Kay's Blog / Saxon Diaries](https://blog.saxonica.com/mike/)
