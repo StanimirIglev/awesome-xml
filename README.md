@@ -31,6 +31,7 @@ A curated list of the best tools, libraries, tutorials, and more for all things 
   - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Books](#books)
+- [Editors (validating)](#editors-validating)
 - [VS Code Extensions](#visual-studio-code-extensions)
 - [Browser Extensions](#browser-extensions)
   - [Mozilla Firefox](#mozilla-firefox)
@@ -315,6 +316,30 @@ Note that many of these books are available online for free - a quick Google sea
 - [XML Toolkit](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) - Syntax and well-formedness validation
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
+
+## Editors (validating)
+These are standalone XML editors with the inherent capability to validate XML against a DTD or schema.
+Browser-based XML editors (such as under [Browser Extensions](#browser-extensions)) and general text editors like Notepad++ and Vim are not included.
+
+### Free
+- [XML Copy Editor](https://xml-copy-editor.sourceforge.io/) - GPLv2 license.
+- [XML Notepad](https://microsoft.github.io/XmlNotepad/#) - MIT license.
+- [XMLPad](https://www.softpedia.com/get/Programming/File-Editors/XMLPad.shtml)
+
+### Commercial, but with a free for personal use version
+- [Liquid Studio XML Editor](https://www.liquid-technologies.com/xml-editor)
+- [XMLmind XML Editor](https://www.xmlmind.com/xmleditor/)
+
+### Commercial
+- [Adobe Framemaker](https://www.adobe.com/products/framemaker.html)
+- [Oxygen XML Editor](https://www.oxygenxml.com/)
+- [Stylus Studio](https://www.stylusstudio.com/xml/editor/)
+- [XML ValidatorBuddy](https://www.xml-buddy.com/)
+- [XML Spy](https://www.altova.com/xmlspy-xml-editor)
+- [XMetal Author](https://xmetal.com/content-xmetal-author/)
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
+
 
 ## Browser Extensions
 
