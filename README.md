@@ -1,9 +1,10 @@
 # Awesome XML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome XML libraries and resources.
+A curated list of the best tools, libraries, tutorials, and more for all things XML-related.
 
 
 ## Contents
 - [The XML Family (in a nutshell)](#the-xml-family-in-a-nutshell)
+- [Drafts and Community Advances](#drafts-and-community-advances)
 - [Processing Libraries](#processing-libraries)
   - [C](#c)
   - [C++](#c-1)
@@ -21,13 +22,17 @@ A curated list of awesome XML libraries and resources.
 - [Online Tools](#online-tools)
 - [Validation](#validation)
   - [Schema Languages](#schema-languages)
+- [Native XML Databases](#native-xml-databases)
 - [XML-based Formats/Languages](#xml-based-formatslanguages)
 - [Community](#community)
-  - [Websites/Forums](#websitesforums)
+  - [Websites/Forums/Lists](#websitesforumslists)
   - [Conferences](#conferences)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Editors (validating)](#editors-validating)
+- [VS Code Extensions](#visual-studio-code-extensions)
 - [Browser Extensions](#browser-extensions)
   - [Mozilla Firefox](#mozilla-firefox)
   - [Google Chrome](#google-chrome)
@@ -64,7 +69,19 @@ A list of W3C standards closely related to XML.
 - [XQuery](https://www.w3.org/XML/Query/) - a language for querying XML data.
 - [XProc](https://www.w3.org/TR/xproc/) - a language for defining XML processing pipelines.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
+
+## Drafts and Community Advances
+A collection of actively developed drafts and community-driven XML-related projects.
+
+- [MicroXML](https://dvcs.w3.org/hg/microxml/raw-file/tip/spec/microxml.html)
+  - [Community Group](https://www.w3.org/community/microxml/)
+- [Invisible XML](https://invisiblexml.org/current/)
+  - [Community Group](https://www.w3.org/community/ixml/), [GitHub](https://github.com/invisibleXML/)
+- [QT4 (XQuery and XSLT extensions)](https://qt4cg.org/)
+  - [Community Group](https://www.w3.org/community/xslt-40/), [GitHub](https://github.com/qt4cg/)
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Processing Libraries
 
@@ -112,23 +129,32 @@ A list of W3C standards closely related to XML.
 - [quick-xml](https://crates.io/crates/quick-xml)
 
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Command-Line Tools
-❗ This section is a work in progress. If you know of any other tools, please contribute! ❗
-- [xmllint](http://xmlsoft.org/xmllint.html) - a command-line XML tool that comes with libxml2.
-- [xmlstarlet](http://xmlstar.sourceforge.net/) - a command-line XML tool that can be used to query, edit, and transform XML documents.
-- [xq](https://github.com/sibprogrammer/xq) - a command-line XML beautifier and content extractor.
+A collection of command-line tools for XML processing.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+- [xmllint](http://xmlsoft.org/xmllint.html) - a multifaceted XML tool that comes with libxml2.
+- [xmlstarlet](http://xmlstar.sourceforge.net/) - a set of utilities for querying, editing, validating, and transforming XML documents.
+- [xq](https://github.com/sibprogrammer/xq) - beautifier and content extractor.
+- [dasel](https://github.com/TomWright/dasel) - query and modify data structures using standart selector strings. Supports XML among others.
+- [graphtage](https://github.com/trailofbits/graphtage) - semantically compare and merge tree-like structures.
+- [HTML-XML-utils](https://www.w3.org/Tools/HTML-XML-utils/) - a collection of utilities for XML/HTML manipulation.
+- [Saxon](https://www.saxonica.com/welcome/welcome.xml) - XML processor supporting XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. (Note: **only the HE version is free**.)
+- [tidy (libtidy)](http://www.html-tidy.org/) - correct and clean-up HTML and XML documents.
+- [xsltproc (libxslt)](https://gitlab.gnome.org/GNOME/libxslt/-/wikis/home) - XSLT processor for the application of stylesheets to XML documents.
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Online Tools
 A small excerpt of the many online tools for XML processing.
 - FreeFormatter XML Tools - [Formatter](https://www.freeformatter.com/xml-formatter.html), [Validator](https://www.freeformatter.com/xml-validator-xsd.html), [XSD Generator](https://www.freeformatter.com/xsd-generator.html), [XML-to-JSON](https://www.freeformatter.com/xml-to-json-converter.html), [XSL Transformer](https://www.freeformatter.com/xsl-transformer.html), [XML Escape](https://www.freeformatter.com/xml-escape.html)
 - JSON Formatter XML Tools - [Formatter](https://jsonformatter.org/xml-formatter), [Minify](https://jsonformatter.org/xml-minify), [Viewer](https://jsonformatter.org/xml-viewer), [XML Pretty Print](https://jsonformatter.org/xml-pretty-print), [Validator](https://jsonformatter.org/xml-validator), [Editor](https://jsonformatter.org/xml-editor), [Parser](https://jsonformatter.org/xml-parser)
 - Code Beautify XML Tools - [Coverter](https://codebeautify.org/xml-converter-online), [Generator](https://codebeautify.org/generate-random-xml), [Difftool](https://codebeautify.org/xml-diff), [Minify](https://codebeautify.org/xml-minifier), [Editor](https://codebeautify.org/online-xml-editor), [Parser](https://codebeautify.org/xml-parser-online), [Validator](https://codebeautify.org/xmlvalidator), [Viewer](https://codebeautify.org/xmlviewer)
+- ExtendsClass XML Tools - [Difftool](https://extendsclass.com/xml-diff.html), [Formatter](https://extendsclass.com/xml-formatter-online.html), [Generator](https://extendsclass.com/xml-generator.html), [Validator](https://extendsclass.com/xml-validator.html), [XSD Generator](https://extendsclass.com/xml-schema-validator.html)
+- XMLable XML Tools - [Formatter](https://xmlable.com/formatter/), [Validator](https://xmlable.com/validator/), [XSD Generator](https://xmlable.com/xml-to-xsd/), [XPath tester](https://xmlable.com/xpath/), [Difftool](https://xmlable.com/compare/), [Generator](https://xmlable.com/generator/), [XSL Transformation](https://xmlable.com/xslt/)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Validation
 
@@ -147,8 +173,23 @@ A small excerpt of the many online tools for XML processing.
   - Part of DSDL - the [ISO/IEC 19757-3 standard](https://www.iso.org/standard/74515.html).
   - Additional resources: [Wiki](https://en.wikipedia.org/wiki/Schematron), [Tutorial](https://www.xml.com/pub/a/2003/11/12/schematron.html)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
+## Native XML Databases
+A list of XML databases that store and query XML data natively.
+
+- [BaseX](http://basex.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/BaseX), [Documentation](http://docs.basex.org/), [GitHub](https://github.com/BaseXdb/basex)
+- [Berkeley DB XML](https://www.oracle.com/database/technologies/related/berkeleydb.html)
+  - [Wiki](https://en.wikipedia.org/wiki/Berkeley_DB_XML), [Documentation](https://docs.oracle.com/cd/E17276_01/html/index.html), [GitHub](https://github.com/berkeleydb/dbxml)
+- [eXist-db](https://exist-db.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/EXist), [Documentation](https://exist-db.org/exist/apps/doc/), [GitHub](https://github.com/exist-db/exist/)
+- [MonetDB](https://www.monetdb.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/MonetDB), [Documentation](https://www.monetdb.org/documentation-Dec2023/), [Repository](https://www.monetdb.org/hg/MonetDB/file/)
+- [Sedna](https://www.sedna.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/Sedna_(database)), [Documentation](https://www.sedna.org/documentation.html), [GitHub](https://github.com/sedna/sedna)
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## XML-based Formats/Languages
 A curated list of popular formats and languages that use the XML syntax (often defined via a schema). 
@@ -156,6 +197,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 
 ❗ The goal for this section is to have a list of established formats with links to resources, such as specifications, schemas, and tutorials. Feel free to contribute! ❗
 
+- [Analytical Information Markup Language(AnIML)](https://www.animl.org/) - XML standard for analytical chemistry and biological data.
+  - [XSD Schemas](https://www.animl.org/current-schema), [GitHub](https://github.com/AnIML)
 - [Atom](https://tools.ietf.org/html/rfc4287) - a web feed format.
   - [Wiki](https://en.wikipedia.org/wiki/Atom_(Web_standard)), [Tutorial](https://validator.w3.org/feed/docs/atom.html)
 - [CDF Markup Language (CDFML)](https://cdf.gsfc.nasa.gov/html/faq.html)
@@ -164,6 +207,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [Wiki](https://en.wikipedia.org/wiki/CellML), [Tutorials](https://www.cellml.org/getting-started/tutorials), [XSD](https://www.cellml.org/tools/cellml_1_1_schema)
 - [Chemical Markup Language (CML)](https://www.xml-cml.org/)
   - [Wiki](https://en.wikipedia.org/wiki/Chemical_Markup_Language), [Schemas](https://www.xml-cml.org/schema/)
+- [Darwin Information Typing Architecture (DITA)](http://dita.xml.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), [Schemas](https://docs.oasis-open.org/dita/), [GitHub](https://github.com/oasis-tcs/dita)
 - [DocBook](https://docbook.org/) - a semantic markup language for technical documentation.
   - [Wiki](https://en.wikipedia.org/wiki/DocBook), [Schemas](https://docbook.org/schemas/)
 - [Digital Weather Markup Language (DWML)](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-ReadersWriters/dwml/dwml.htm)
@@ -194,8 +239,10 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [Wiki](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial), [W3Schools Tutorial](https://www.w3schools.com/graphics/svg_intro.asp), [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 - [Extensible HyperText Markup Language (XHTML)](https://html.spec.whatwg.org/) - a reformulation of HTML.
   - [Wiki](https://en.wikipedia.org/wiki/XHTML), [Tutorial](https://www.tutorialspoint.com/xhtml/index.htm)
+- [XSpec](https://xspec.io/) - a unit test and behaviour-driven development (BDD) framework for XSLT, XQuery, and Schematron.
+  - [Wiki](https://github.com/xspec/xspec/wiki)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Community
@@ -210,6 +257,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [XML Prague](https://www.xmlprague.cz/) - an annual conference on markup languages and data on the web.
 - [Balisage](https://www.balisage.net/) - an annual conference devoted to descriptive markup
 - [Markup UK](https://markupuk.org/) - a conference about XML and other markup technologies
+- [Declarative Amsterdam](https://declarative.amsterdam/) - a conference on the technologies and methods used for declarative programming and data
+- [XML Summer School](https://xmlsummerschool.org/) - a week-long event comprised of courses for XML and related technologies
 
 ### Blogs
 - [Michael Kay's Blog / Saxon Diaries](https://blog.saxonica.com/mike/)
@@ -220,7 +269,15 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 - [Altova's Blog](https://www.altova.com/blog/)
 - [Inera's Blog](https://inera.com/blog/)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+### Mailing Lists
+- [XSL-List](https://www.mulberrytech.com/xsl/xsl-list/index.html) - mailing list for XSLT questions and applications.
+- [Schematron](http://schematronist.org/mailman/listinfo/schematron_schematronist.org) - mailing list for Schematron discussions.
+- [XML-DEV](https://www.xml.org/xml-dev) - active mailing list on XML.org.
+
+### Articles
+- [In defense of XML](https://blog.frankel.ch/defense-xml/) by Nicolas Fränkel.
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Tutorials
@@ -229,8 +286,9 @@ A list of tutorials that provide a good introduction to the XML ecosystem.
 - [W3Schools XML Tutorial](https://www.w3schools.com/xml/) - covers XML, XPath, XSLT, XQuery, DTD, XSD, AJAX, DOM, and several XML-based web services.
 - [Tutorials Point XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - beginners intro to XML and related technologies.
 - [Javatpoint XML Tutorial](https://www.javatpoint.com/xml-tutorial) - covers XML, XML validation, XPath, XQuery, and XSLT.
+- [XMLFiles Tutorials and Guides](https://www.xmlfiles.com/) - covers basics, XSL, DTD, DOM, RSS feeds, SEO, XBRL, XHTML, and other awesome articles.
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Books
@@ -245,12 +303,23 @@ Note that many of these books are available online for free - a quick Google sea
 - [Sams Teach Yourself XML in 24 Hours](https://www.goodreads.com/book/show/831166) by Michael Morrison
 - [Professional XML](https://www.goodreads.com/book/show/684553.Professional_XML) - Didier Martin, Michael Kay, Stephen F. Mohr
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
+## Visual Studio Code Extensions
+- [XML (Red Hat)](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - support for creating and editing documents, based on the [LemMinX XML Server](https://github.com/eclipse/lemminx)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tags
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML Formatting, XQuery, and XPath Tools for Visual Studio Code
+- [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment) - Generate XML documentation comments
+- [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Live preview of SVG files
+- [Pretty XML](https://marketplace.visualstudio.com/items?itemName=PrateekMahendrakar.prettyxml) - XML formatter
+- [XML Toolkit](https://marketplace.visualstudio.com/items?itemName=SAPOSS.xml-toolkit) - Syntax and well-formedness validation
+
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Editors (validating)
 These are standalone XML editors with the inherent capability to validate XML against a DTD or schema.
-Browser-based XML editors (such as under [Browser Extensions](#browser-extensions) and general text editors like Notepad&#x002B;&#x002B; and Vim are not included.
+Browser-based XML editors (such as under [Browser Extensions](#browser-extensions)) and general text editors like Notepad++ and Vim are not included.
 
 ### Free
 - [XML Copy Editor](https://xml-copy-editor.sourceforge.io/) - GPLv2 license.
@@ -263,14 +332,13 @@ Browser-based XML editors (such as under [Browser Extensions](#browser-extension
 
 ### Commercial
 - [Adobe Framemaker](https://www.adobe.com/products/framemaker.html)
-- [Arbortext Editor](https://www.ptc.com/en/products/arbortext)
 - [Oxygen XML Editor](https://www.oxygenxml.com/)
 - [Stylus Studio](https://www.stylusstudio.com/xml/editor/)
 - [XML ValidatorBuddy](https://www.xml-buddy.com/)
 - [XML Spy](https://www.altova.com/xmlspy-xml-editor)
 - [XMetal Author](https://xmetal.com/content-xmetal-author/)
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Browser Extensions
@@ -288,7 +356,7 @@ Browser-based XML editors (such as under [Browser Extensions](#browser-extension
 - [XML Tools](https://chromewebstore.google.com/detail/xml-tools/pjlccigfdcjmbgbmaidfgmchilpfomam) - collection of tools for XML - conversion, formatting, minification, etc.
 - [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/piocgilonokogjhfcillbljpifenhabk) - another XML formatter
 
-<p align="right"><a href="#contents"><b>🔝 back to top 🔝</b></a></p>
+<p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 
 ## Contribute
