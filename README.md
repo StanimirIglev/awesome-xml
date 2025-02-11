@@ -206,6 +206,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [Wiki](https://en.wikipedia.org/wiki/CellML), [Tutorials](https://www.cellml.org/getting-started/tutorials), [XSD](https://www.cellml.org/tools/cellml_1_1_schema)
 - [Chemical Markup Language (CML)](https://www.xml-cml.org/)
   - [Wiki](https://en.wikipedia.org/wiki/Chemical_Markup_Language), [Schemas](https://www.xml-cml.org/schema/)
+- [Darwin Information Typing Architecture (DITA)](http://dita.xml.org/)
+  - [Wiki](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), [Schemas](https://docs.oasis-open.org/dita/), [GitHub](https://github.com/oasis-tcs/dita)
 - [DocBook](https://docbook.org/) - a semantic markup language for technical documentation.
   - [Wiki](https://en.wikipedia.org/wiki/DocBook), [Schemas](https://docbook.org/schemas/)
 - [Digital Weather Markup Language (DWML)](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-ReadersWriters/dwml/dwml.htm)
