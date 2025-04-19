@@ -100,6 +100,9 @@ A collection of actively developed drafts and community-driven XML-related proje
 - [Dart XML](https://pub.dev/packages/xml)
 ### Go
 - [encoding/xml](https://pkg.go.dev/encoding/xml)
+### Haskell
+- [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
+- [Haskell XML Toolbox](https://intern.fh-wedel.de/~si/HXmlToolbox/index.html)
 ### Java
 - [JAXP](https://docs.oracle.com/javase/8/docs/technotes/guides/xml/jaxp/index.html)
 - [dom4j](https://dom4j.github.io/)
@@ -111,6 +114,8 @@ A collection of actively developed drafts and community-driven XML-related proje
 - [xml-js](https://www.npmjs.com/package/xml-js)
 - [xml2js](https://www.npmjs.com/package/xml2js)
 - [fast-xml-parser](https://www.npmjs.com/package/fast-xml-parser)
+### Kotlin
+- [XmlUtil](https://github.com/pdvrieze/xmlutil)
 ### Perl
 - [XML::Parser](https://metacpan.org/pod/XML::Parser)
 - [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
@@ -127,6 +132,11 @@ A collection of actively developed drafts and community-driven XML-related proje
 ### Rust
 - [xml-rs](https://crates.io/crates/xml-rs)
 - [quick-xml](https://crates.io/crates/quick-xml)
+### Scala
+- [scala-xml](https://github.com/scala/scala-xml)
+### Swift
+- [SWXMLHash](https://github.com/drmohundro/SWXMLHash)
+- [AEXML](https://github.com/tadija/AEXML)
 
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
