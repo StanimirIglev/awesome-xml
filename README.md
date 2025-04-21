@@ -6,22 +6,6 @@ A curated list of the best tools, libraries, tutorials, and more for all things 
 - [The XML Family (in a nutshell)](#the-xml-family-in-a-nutshell)
 - [Drafts and Community Advances](#drafts-and-community-advances)
 - [Processing Libraries](#processing-libraries)
-  - [C](#c)
-  - [C++](#c-1)
-  - [C#](#c-2)
-  - [Dart](#dart)
-  - [Go](#go)
-  - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Kotlin](#kotlin)
-  - [Perl](#perl)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Swift](#swift)
 - [Command-Line Tools](#command-line-tools)
 - [Online Tools](#online-tools)
 - [Validation](#validation)
@@ -90,58 +74,59 @@ A collection of actively developed drafts and community-driven XML-related proje
 
 ## Processing Libraries
 
-### C
-- [libxml2](http://xmlsoft.org/)
-- [expat](https://libexpat.github.io/)
-### C++
-- [libxml++](https://libxmlplusplus.github.io/libxmlplusplus/)
-- [pugixml](https://pugixml.org/)
-- [TinyXML](https://github.com/leethomason/tinyxml2)
-- [RapidXML](https://rapidxml.sourceforge.net/)
-- [Xerces-C++](https://xerces.apache.org/xerces-c/)
-### C# 
-- [System.Xml](https://docs.microsoft.com/en-us/dotnet/api/system.xml?view=net-5.0)
-### Dart
-- [Dart XML](https://pub.dev/packages/xml)
-### Go
-- [encoding/xml](https://pkg.go.dev/encoding/xml)
-### Haskell
-- [xml-conduit](https://hackage.haskell.org/package/xml-conduit)
-- [Haskell XML Toolbox](https://intern.fh-wedel.de/~si/HXmlToolbox/index.html)
-### Java
-- [JAXP](https://docs.oracle.com/javase/8/docs/technotes/guides/xml/jaxp/index.html)
-- [dom4j](https://dom4j.github.io/)
-- [JDOM](http://www.jdom.org/)
-- [VTD-XML](https://vtd-xml.sourceforge.io/)
-- [Xerces2-J](https://xerces.apache.org/xerces2-j/)
-### JavaScript
-- [DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
-- [xml-js](https://www.npmjs.com/package/xml-js)
-- [xml2js](https://www.npmjs.com/package/xml2js)
-- [fast-xml-parser](https://www.npmjs.com/package/fast-xml-parser)
-### Kotlin
-- [XmlUtil](https://github.com/pdvrieze/xmlutil)
-### Perl
-- [XML::Parser](https://metacpan.org/pod/XML::Parser)
-- [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
-- [XML::Simple](https://metacpan.org/pod/XML::Simple)
-### PHP
-- [SimpleXML](https://www.php.net/manual/en/book.simplexml.php)
-### Python
-- [xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html)
-- [lxml](https://lxml.de/)
-- [xml.dom.minidom](https://docs.python.org/3/library/xml.dom.minidom.html)
-### Ruby
-- [NokoGiri](https://nokogiri.org/)
-- [REXML](https://ruby.github.io/rexml/)
-### Rust
-- [xml-rs](https://crates.io/crates/xml-rs)
-- [quick-xml](https://crates.io/crates/quick-xml)
-### Scala
-- [scala-xml](https://github.com/scala/scala-xml)
-### Swift
-- [SWXMLHash](https://github.com/drmohundro/SWXMLHash)
-- [AEXML](https://github.com/tadija/AEXML)
+### Legend for Use Case Tags
+
+| Tag          | Description                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| **DOM**      | Libraries that support building or navigating XML trees via the Document Object Model. |
+| **SAX**      | Libraries that use event-driven parsing, emitting parsing events (start tag, end tag, etc.) instead of building an in-memory tree. |
+| **Validation** | Support for XML schema validation (DTD, XSD, Relax NG, etc.).            |
+| **XPath**    | Libraries that support querying XML documents using XPath expressions.     |
+| **XSLT**     | Libraries with support for XML transformation using XSLT stylesheets.       |
+| **Serialization** | Libraries that convert between native data structures and XML (marshal/unmarshal). |
+
+💡 Use these tags to quickly identify what capabilities each library provides. 💡
+
+### Libraries
+
+| Library Name           | Language   | Use Cases                                     | Notes |
+|------------------------|------------|-----------------------------------------------|-------|
+| [libxml2](http://xmlsoft.org/)                | C          | DOM, SAX, Validation, XPath, XSLT             | Comprehensive XML toolkit with support for various standards. |
+| [expat](https://libexpat.github.io/)                  | C          | SAX                                           | Stream-oriented parser suitable for event-driven applications. |
+| [libxml++](https://libxmlplusplus.github.io/libxmlplusplus/)               | C++        | DOM, SAX, Validation, XPath, XSLT             | C++ wrapper for libxml2 providing an object-oriented API. |
+| [pugixml](https://pugixml.org/)                | C++        | DOM, XPath                                    | Lightweight and fast XML parser with XPath support. |
+| [TinyXML](https://github.com/leethomason/tinyxml2)                | C++        | DOM                                           | Simple and small XML parser for C++ applications. |
+| [RapidXML](https://rapidxml.sourceforge.net/)               | C++        | DOM                                           | High-performance XML parser with in-situ parsing capabilities. |
+| [Xerces-C++](https://xerces.apache.org/xerces-c/)             | C++        | DOM, SAX, Validation                          | Full-featured XML parser with support for various XML standards. |
+| [System.Xml](https://docs.microsoft.com/en-us/dotnet/api/system.xml?view=net-5.0)             | C#         | DOM, SAX, Validation, XPath, XSLT, Serialization | .NET's comprehensive XML processing library. |
+| [Dart XML](https://pub.dev/packages/xml)               | Dart       | DOM                                           | Lightweight library for parsing and building XML documents. |
+| [encoding/xml](https://pkg.go.dev/encoding/xml)          | Go         | Serialization                                 | Standard library for encoding and decoding XML. |
+| [xml-conduit](https://hackage.haskell.org/package/xml-conduit)            | Haskell    | DOM, Streaming                                | Provides parsing and rendering functions for XML with streaming support. |
+| [Haskell XML Toolbox](https://intern.fh-wedel.de/~si/HXmlToolbox/index.html)    | Haskell    | DOM, Validation, XPath                        | Collection of tools for processing XML with Haskell. |
+| [JAXP](https://docs.oracle.com/javase/8/docs/technotes/guides/xml/jaxp/index.html)                   | Java       | DOM, SAX, Validation, XPath, XSLT             | Java API for XML Processing supporting various standards. |
+| [dom4j](https://dom4j.github.io/)                  | Java       | DOM, XPath                                    | Flexible XML framework for Java applications. |
+| [JDOM](http://www.jdom.org/)                   | Java       | DOM                                           | Java-based document object model for XML that is easy to use. |
+| [VTD-XML](https://vtd-xml.sourceforge.io/)                | Java       | DOM, XPath                                    | High-performance XML parser with non-extractive parsing. |
+| [Xerces2-J](https://xerces.apache.org/xerces2-j/)              | Java       | DOM, SAX, Validation                          | Java version of Xerces with comprehensive XML support. |
+| [DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)              | JavaScript | DOM                                           | Built-in browser API for parsing XML documents. |
+| [xml-js](https://www.npmjs.com/package/xml-js)                 | JavaScript | DOM                                           | Converts XML text to JavaScript objects and vice versa. |
+| [xml2js](https://www.npmjs.com/package/xml2js)                 | JavaScript | DOM                                           | Simple XML to JavaScript object converter. |
+| [fast-xml-parser](https://www.npmjs.com/package/fast-xml-parser)        | JavaScript | DOM                                           | Fast and lightweight XML parser for JavaScript. |
+| [XmlUtil](https://github.com/pdvrieze/xmlutil)                | Kotlin     | DOM                                           | Utility functions for XML processing in Kotlin. |
+| [XML::Parser](https://metacpan.org/pod/XML::Parser)            | Perl       | SAX                                           | Perl module for parsing XML documents. |
+| [XML::LibXML](https://metacpan.org/pod/XML::LibXML)            | Perl       | DOM, XPath, Validation                        | Interface to the libxml2 library for Perl. |
+| [XML::Simple](https://metacpan.org/pod/XML::Simple)            | Perl       | DOM                                           | Simple API for reading and writing XML. |
+| [SimpleXML](https://www.php.net/manual/en/book.simplexml.php)             | PHP        | DOM                                           | Provides a simple way to access XML elements. |
+| [xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html)  | Python     | DOM                                           | Lightweight XML parser and tree builder. |
+| [lxml](https://lxml.de/)                   | Python     | DOM, XPath, XSLT, Validation                  | Powerful and feature-rich XML processing library. |
+| [xml.dom.minidom](https://docs.python.org/3/library/xml.dom.minidom.html)        | Python     | DOM                                           | Minimal implementation of the Document Object Model interface. |
+| [NokoGiri](https://nokogiri.org/)               | Ruby       | DOM, XPath, XSLT                              | HTML, XML, SAX, and Reader parser with XPath and CSS selector support. |
+| [REXML](https://ruby.github.io/rexml/)                  | Ruby       | DOM                                           | Pure Ruby XML processor conforming to the XML 1.0 specification. |
+| [xml-rs](https://crates.io/crates/xml-rs)                 | Rust       | SAX                                           | Event-based XML parser for Rust. |
+| [quick-xml](https://crates.io/crates/quick-xml)              | Rust       | SAX                                           | Fast and low-level XML reader and writer. |
+| [scala-xml](https://github.com/scala/scala-xml)              | Scala      | DOM                                           | XML processing library for Scala. |
+| [SWXMLHash](https://github.com/drmohundro/SWXMLHash)              | Swift      | DOM                                           | Simple XML parser for Swift. |
+| [AEXML](https://github.com/tadija/AEXML)                  | Swift      | DOM                                           | Lightweight XML parser for iOS and macOS. |
 
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
