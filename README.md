@@ -158,7 +158,8 @@ A small excerpt of the many online tools for XML processing.
 - ExtendsClass XML Tools - [Difftool](https://extendsclass.com/xml-diff.html), [Formatter](https://extendsclass.com/xml-formatter-online.html), [Generator](https://extendsclass.com/xml-generator.html), [Validator](https://extendsclass.com/xml-validator.html), [XSD Generator](https://extendsclass.com/xml-schema-validator.html)
 - XMLable XML Tools - [Formatter](https://xmlable.com/formatter/), [Validator](https://xmlable.com/validator/), [XSD Generator](https://xmlable.com/xml-to-xsd/), [XPath tester](https://xmlable.com/xpath/), [Difftool](https://xmlable.com/compare/), [Generator](https://xmlable.com/generator/), [XSL Transformation](https://xmlable.com/xslt/)
 - XSLT Playground - [XSL Transformer](https://xsltplayground.com/) (XSLT 1.0, [2.0](https://xsltplayground.com/xslt-2-0/), [3.0](https://xsltplayground.com/xslt-3-0/) via Saxon HE — the only free online tool supporting XSLT 3.0)
-
+- Fixzi XML Tools - [Formatter](https://fixzi.ai/xml-formatter), [Validator](https://fixzi.ai/xml-validator), [Viewer](https://fixzi.ai/xml-viewer), [Minify](https://fixzi.ai/xml-minifier)
+- 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Validation
