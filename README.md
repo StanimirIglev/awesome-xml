@@ -145,6 +145,7 @@ A collection of command-line tools for XML processing.
 - [Saxon](https://www.saxonica.com/welcome/welcome.xml) - XML processor supporting XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. (Note: **only the HE version is free**.)
 - [tidy (libtidy)](http://www.html-tidy.org/) - correct and clean-up HTML and XML documents.
 - [xsltproc (libxslt)](https://gitlab.gnome.org/GNOME/libxslt/-/wikis/home) - XSLT processor for the application of stylesheets to XML documents.
+- [xslint](https://github.com/xslint/xslint) - a linter for XSL/XSLT stylesheets, flagging stylistic, semantic, and logical mistakes with fixes and editor/CI integrations.
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
