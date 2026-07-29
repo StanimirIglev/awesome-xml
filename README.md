@@ -1,6 +1,5 @@
 # Awesome XML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 A curated list of the best tools, libraries, tutorials, and more for all things XML-related.
 
 ## Contents
