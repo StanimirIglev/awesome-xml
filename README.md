@@ -290,6 +290,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 ### Articles
 
 - [In defense of XML](https://blog.frankel.ch/defense-xml/) by Nicolas Fränkel.
+- [StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](https://arxiv.org/abs/2505.20139) - TMLR 2025 benchmark evaluating LLM XML generation and cross-format conversion with syntax and structural checks. ([Code](https://github.com/TIGER-AI-Lab/StructEval)).
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
