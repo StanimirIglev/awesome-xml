@@ -37,7 +37,7 @@ A list of W3C standards closely related to XML.
 - Namespaces in XML - [Namespaces in XML 1.0](https://www.w3.org/TR/REC-xml-names/), [Namespaces in XML 1.1](https://www.w3.org/TR/xml-names11/)
 - [XML Information Set](https://www.w3.org/TR/xml-infoset/) - an abstract data model for XML documents.
 - [Extensible Stylesheet Language (XSL)](https://www.w3.org/TR/xsl/) - a family of languages used for transforming and presenting XML documents.
-  - [XSL-FO (Formatting Objects)](https://www.w3.org/TR/xsl11/#fo-section) - presentation layer for ormatting XML data for output to screen, paper, or other media.
+  - [XSL-FO (Formatting Objects)](https://www.w3.org/TR/xsl11/#fo-section) - presentation layer for formatting XML data for output to screen, paper, or other media.
   - [XSLT](https://www.w3.org/TR/xslt/) - a language for transforming XML documents into other XML documents, HTML, text, or other formats.
   - [XML Path Language (XPath)](https://www.w3.org/TR/xpath/) - a language used for navigating and selecting nodes in an XML document.
 - XML Validation:
@@ -93,7 +93,7 @@ A collection of actively developed drafts and community-driven XML-related proje
 | ------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
 | [libxml2](http://xmlsoft.org/)                                                        | C          | DOM, SAX, Validation, XPath, XSLT                | Comprehensive XML toolkit with support for various standards.            |
 | [expat](https://libexpat.github.io/)                                                  | C          | SAX                                              | Stream-oriented parser suitable for event-driven applications.           |
-| [Mini-XML](https://www.msweet.org/mxml/)                                              | C          | SAX                                              | Small C XML library
+| [Mini-XML](https://www.msweet.org/mxml/)                                              | C          | SAX                                              | Small C XML library.                                                     |
 | [libxml++](https://libxmlplusplus.github.io/libxmlplusplus/)                          | C++        | DOM, SAX, Validation, XPath, XSLT                | C++ wrapper for libxml2 providing an object-oriented API.                |
 | [pugixml](https://pugixml.org/)                                                       | C++        | DOM, XPath                                       | Lightweight and fast XML parser with XPath support.                      |
 | [TinyXML](https://github.com/leethomason/tinyxml2)                                    | C++        | DOM                                              | Simple and small XML parser for C++ applications.                        |
@@ -101,7 +101,7 @@ A collection of actively developed drafts and community-driven XML-related proje
 | [Xerces-C++](https://xerces.apache.org/xerces-c/)                                     | C++        | DOM, SAX, Validation                             | Full-featured XML parser with support for various XML standards.         |
 | [System.Xml](https://docs.microsoft.com/en-us/dotnet/api/system.xml?view=net-5.0)     | C#         | DOM, SAX, Validation, XPath, XSLT, Serialization | .NET's comprehensive XML processing library.                             |
 | [Dart XML](https://pub.dev/packages/xml)                                              | Dart       | DOM                                              | Lightweight library for parsing and building XML documents.              |
-| [fast_xml](https://github.com/processone/fast_xml)                                    | Erlang     | SAX                                              | Erlang XML library based on expat
+| [fast_xml](https://github.com/processone/fast_xml)                                    | Erlang     | SAX                                              | Erlang XML library based on expat.                                       |
 | [encoding/xml](https://pkg.go.dev/encoding/xml)                                       | Go         | Serialization                                    | Standard library for encoding and decoding XML.                          |
 | [xml-conduit](https://hackage.haskell.org/package/xml-conduit)                        | Haskell    | DOM, Streaming                                   | Provides parsing and rendering functions for XML with streaming support. |
 | [Haskell XML Toolbox](https://intern.fh-wedel.de/~si/HXmlToolbox/index.html)          | Haskell    | DOM, Validation, XPath                           | Collection of tools for processing XML with Haskell.                     |
@@ -122,7 +122,7 @@ A collection of actively developed drafts and community-driven XML-related proje
 | [xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html) | Python     | DOM                                              | Lightweight XML parser and tree builder.                                 |
 | [lxml](https://lxml.de/)                                                              | Python     | DOM, XPath, XSLT, Validation                     | Powerful and feature-rich XML processing library.                        |
 | [xml.dom.minidom](https://docs.python.org/3/library/xml.dom.minidom.html)             | Python     | DOM                                              | Minimal implementation of the Document Object Model interface.           |
-| [NokoGiri](https://nokogiri.org/)                                                     | Ruby       | DOM, XPath, XSLT                                 | HTML, XML, SAX, and Reader parser with XPath and CSS selector support.   |
+| [Nokogiri](https://nokogiri.org/)                                                     | Ruby       | DOM, XPath, XSLT                                 | HTML, XML, SAX, and Reader parser with XPath and CSS selector support.   |
 | [REXML](https://ruby.github.io/rexml/)                                                | Ruby       | DOM                                              | Pure Ruby XML processor conforming to the XML 1.0 specification.         |
 | [xml-rs](https://crates.io/crates/xml-rs)                                             | Rust       | SAX                                              | Event-based XML parser for Rust.                                         |
 | [quick-xml](https://crates.io/crates/quick-xml)                                       | Rust       | SAX                                              | Fast and low-level XML reader and writer.                                |
@@ -139,7 +139,7 @@ A collection of command-line tools for XML processing.
 - [xmllint](http://xmlsoft.org/xmllint.html) - a multifaceted XML tool that comes with libxml2.
 - [xmlstarlet](http://xmlstar.sourceforge.net/) - a set of utilities for querying, editing, validating, and transforming XML documents.
 - [xq](https://github.com/sibprogrammer/xq) - beautifier and content extractor.
-- [dasel](https://github.com/TomWright/dasel) - query and modify data structures using standart selector strings. Supports XML among others.
+- [dasel](https://github.com/TomWright/dasel) - query and modify data structures using standard selector strings. Supports XML among others.
 - [graphtage](https://github.com/trailofbits/graphtage) - semantically compare and merge tree-like structures.
 - [HTML-XML-utils](https://www.w3.org/Tools/HTML-XML-utils/) - a collection of utilities for XML/HTML manipulation.
 - [Saxon](https://www.saxonica.com/welcome/welcome.xml) - XML processor supporting XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. (Note: **only the HE version is free**.)
@@ -155,13 +155,13 @@ A small excerpt of the many online tools for XML processing.
 
 - FreeFormatter XML Tools - [Formatter](https://www.freeformatter.com/xml-formatter.html), [Validator](https://www.freeformatter.com/xml-validator-xsd.html), [XSD Generator](https://www.freeformatter.com/xsd-generator.html), [XML-to-JSON](https://www.freeformatter.com/xml-to-json-converter.html), [XSL Transformer](https://www.freeformatter.com/xsl-transformer.html), [XML Escape](https://www.freeformatter.com/xml-escape.html)
 - JSON Formatter XML Tools - [Formatter](https://jsonformatter.org/xml-formatter), [Minify](https://jsonformatter.org/xml-minify), [Viewer](https://jsonformatter.org/xml-viewer), [XML Pretty Print](https://jsonformatter.org/xml-pretty-print), [Validator](https://jsonformatter.org/xml-validator), [Editor](https://jsonformatter.org/xml-editor), [Parser](https://jsonformatter.org/xml-parser)
-- Code Beautify XML Tools - [Coverter](https://codebeautify.org/xml-converter-online), [Generator](https://codebeautify.org/generate-random-xml), [Difftool](https://codebeautify.org/xml-diff), [Minify](https://codebeautify.org/xml-minifier), [Editor](https://codebeautify.org/online-xml-editor), [Parser](https://codebeautify.org/xml-parser-online), [Validator](https://codebeautify.org/xmlvalidator), [Viewer](https://codebeautify.org/xmlviewer)
+- Code Beautify XML Tools - [Converter](https://codebeautify.org/xml-converter-online), [Generator](https://codebeautify.org/generate-random-xml), [Difftool](https://codebeautify.org/xml-diff), [Minify](https://codebeautify.org/xml-minifier), [Editor](https://codebeautify.org/online-xml-editor), [Parser](https://codebeautify.org/xml-parser-online), [Validator](https://codebeautify.org/xmlvalidator), [Viewer](https://codebeautify.org/xmlviewer)
 - ExtendsClass XML Tools - [Difftool](https://extendsclass.com/xml-diff.html), [Formatter](https://extendsclass.com/xml-formatter-online.html), [Generator](https://extendsclass.com/xml-generator.html), [Validator](https://extendsclass.com/xml-validator.html), [XSD Generator](https://extendsclass.com/xml-schema-validator.html)
 - XMLable XML Tools - [Formatter](https://xmlable.com/formatter/), [Validator](https://xmlable.com/validator/), [XSD Generator](https://xmlable.com/xml-to-xsd/), [XPath tester](https://xmlable.com/xpath/), [Difftool](https://xmlable.com/compare/), [Generator](https://xmlable.com/generator/), [XSL Transformation](https://xmlable.com/xslt/)
 - XSLT Playground - [XSL Transformer](https://xsltplayground.com/) (XSLT 1.0, [2.0](https://xsltplayground.com/xslt-2-0/), [3.0](https://xsltplayground.com/xslt-3-0/) via Saxon HE — the only free online tool supporting XSLT 3.0)
 - Fixzi XML Tools - [Formatter](https://fixzi.ai/xml-formatter), [Validator](https://fixzi.ai/xml-validator), [Viewer](https://fixzi.ai/xml-viewer), [Minify](https://fixzi.ai/xml-minifier)
 - [XML to PDF Invoice](https://alltoolsverse.com/tools/xml-to-pdf-invoice/) - Converts invoice XML into a locally generated PDF with live preview and download.
-- 
+
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
 ## Validation
@@ -207,7 +207,7 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
 
 ❗ The goal for this section is to have a list of established formats with links to resources, such as specifications, schemas, and tutorials. Feel free to contribute! ❗
 
-- [Analytical Information Markup Language(AnIML)](https://www.animl.org/) - XML standard for analytical chemistry and biological data.
+- [Analytical Information Markup Language (AnIML)](https://www.animl.org/) - XML standard for analytical chemistry and biological data.
   - [XSD Schemas](https://www.animl.org/current-schema), [GitHub](https://github.com/AnIML)
 - [Atom](https://tools.ietf.org/html/rfc4287) - a web feed format.
   - [Wiki](<https://en.wikipedia.org/wiki/Atom_(Web_standard)>), [Tutorial](https://validator.w3.org/feed/docs/atom.html)
@@ -225,8 +225,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [XSD](https://schemas.liquid-technologies.com/DWML/0/)
 - [Electronic Business using eXtensible Markup Language (ebXML)](https://www.ebxml.org/) - a set of specifications for electronic business.
   - [Wiki](https://en.wikipedia.org/wiki/EbXML)
-- [Encoded Archival Description (EAD)](https://www.loc.gov/ead/) - astandard for encoding archival finding aids.
-  - [Wiki](https://en.wikipedia.org/wiki/Encoded_Archival_Description), [A Primer (Video)](https://www.youtube.com/watch?v=WYWQeBRnhz0),[EAD3 Schemas](https://loc.gov/ead/ead3schema.html), [EAD 2002 Schemas](https://loc.gov/ead/eadschema.html)
+- [Encoded Archival Description (EAD)](https://www.loc.gov/ead/) - a standard for encoding archival finding aids.
+  - [Wiki](https://en.wikipedia.org/wiki/Encoded_Archival_Description), [A Primer (Video)](https://www.youtube.com/watch?v=WYWQeBRnhz0), [EAD3 Schemas](https://loc.gov/ead/ead3schema.html), [EAD 2002 Schemas](https://loc.gov/ead/eadschema.html)
 - [FictionBook](https://en.wikipedia.org/wiki/FictionBook) - an e-book format.
   - [Wiki](https://en.wikipedia.org/wiki/FictionBook), [XSD](http://www.fictionbook.org/index.php/Eng:XML_Schema_Fictionbook_2.1)
 - [FundsXML](https://www.fundsxml.org/) - an open, royalty-free standard for fund data exchange and regulatory reporting in the European fund industry.
@@ -371,7 +371,7 @@ Browser-based XML editors (such as under [Browser Extensions](#browser-extension
 
 ### Google Chrome
 
-- [XML Tree](https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb) - Displays XML data in a user friendly way.
+- [XML Tree](https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb) - Displays XML data in a user-friendly way.
 - [XML Plus](https://chromewebstore.google.com/detail/xml-plus/jmhicemblbmkcbonbhkjmflehkmkiidj) - XML Viewer
 - [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/ejmpbcebpllmffkidemmlecpgboklcme) - in-browser formatter for XML
 - [XML Editor](https://chromewebstore.google.com/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin) - XML code editor and validator
