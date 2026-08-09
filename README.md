@@ -160,6 +160,7 @@ A small excerpt of the many online tools for XML processing.
 - XMLable XML Tools - [Formatter](https://xmlable.com/formatter/), [Validator](https://xmlable.com/validator/), [XSD Generator](https://xmlable.com/xml-to-xsd/), [XPath tester](https://xmlable.com/xpath/), [Difftool](https://xmlable.com/compare/), [Generator](https://xmlable.com/generator/), [XSL Transformation](https://xmlable.com/xslt/)
 - XSLT Playground - [XSL Transformer](https://xsltplayground.com/) (XSLT 1.0, [2.0](https://xsltplayground.com/xslt-2-0/), [3.0](https://xsltplayground.com/xslt-3-0/) via Saxon HE — the only free online tool supporting XSLT 3.0)
 - Fixzi XML Tools - [Formatter](https://fixzi.ai/xml-formatter), [Validator](https://fixzi.ai/xml-validator), [Viewer](https://fixzi.ai/xml-viewer), [Minify](https://fixzi.ai/xml-minifier)
+- JSON Viewer Tool XML Tools - [JSON to XML](https://jsonviewertool.com/json-to-xml), [XML to JSON](https://jsonviewertool.com/xml-to-json), [JSON to XSD](https://jsonviewertool.com/json-to-xsd), [XSD to JSON](https://jsonviewertool.com/xsd-to-json)
 - [XML to PDF Invoice](https://alltoolsverse.com/tools/xml-to-pdf-invoice/) - Converts invoice XML into a locally generated PDF with live preview and download.
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
