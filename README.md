@@ -371,13 +371,9 @@ Browser-based XML editors (such as under [Browser Extensions](#browser-extension
 
 ### Google Chrome
 
-- [XML Tree](https://chrome.google.com/webstore/detail/xml-tree/gbammbheopgpmaagmckhpjbfgdfkpadb) - Displays XML data in a user-friendly way.
-- [XML Plus](https://chromewebstore.google.com/detail/xml-plus/jmhicemblbmkcbonbhkjmflehkmkiidj) - XML Viewer
 - [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/ejmpbcebpllmffkidemmlecpgboklcme) - in-browser formatter for XML
-- [XML Editor](https://chromewebstore.google.com/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin) - XML code editor and validator
 - [Night XML](https://chromewebstore.google.com/detail/night-xml-dark-mode-xml-v/dbbcealbkponjcfeafmabmjjkffclpgf) - dark mode XML viewer
 - [XML Tools](https://chromewebstore.google.com/detail/xml-tools/pjlccigfdcjmbgbmaidfgmchilpfomam) - collection of tools for XML - conversion, formatting, minification, etc.
-- [XML Formatter](https://chromewebstore.google.com/detail/xml-formatter/piocgilonokogjhfcillbljpifenhabk) - another XML formatter
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
