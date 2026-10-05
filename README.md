@@ -161,6 +161,7 @@ A small excerpt of the many online tools for XML processing.
 - Fixzi XML Tools - [Formatter](https://fixzi.ai/xml-formatter), [Validator](https://fixzi.ai/xml-validator), [Viewer](https://fixzi.ai/xml-viewer), [Minify](https://fixzi.ai/xml-minifier)
 - JSON Viewer Tool XML Tools - [JSON to XML](https://jsonviewertool.com/json-to-xml), [XML to JSON](https://jsonviewertool.com/xml-to-json), [JSON to XSD](https://jsonviewertool.com/json-to-xsd), [XSD to JSON](https://jsonviewertool.com/xsd-to-json)
 - [XML to PDF Invoice](https://alltoolsverse.com/tools/xml-to-pdf-invoice/) - Converts invoice XML into a locally generated PDF with live preview and download.
+- [BestJSON XML to JSON](https://bestjson.com/xml-to-json) - Convert XML to JSON locally in the browser, keeping values as strings by default.
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
