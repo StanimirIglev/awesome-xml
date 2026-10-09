@@ -161,6 +161,7 @@ A small excerpt of the many online tools for XML processing.
 - Fixzi XML Tools - [Formatter](https://fixzi.ai/xml-formatter), [Validator](https://fixzi.ai/xml-validator), [Viewer](https://fixzi.ai/xml-viewer), [Minify](https://fixzi.ai/xml-minifier)
 - JSON Viewer Tool XML Tools - [JSON to XML](https://jsonviewertool.com/json-to-xml), [XML to JSON](https://jsonviewertool.com/xml-to-json), [JSON to XSD](https://jsonviewertool.com/json-to-xsd), [XSD to JSON](https://jsonviewertool.com/xsd-to-json)
 - [XML to PDF Invoice](https://alltoolsverse.com/tools/xml-to-pdf-invoice/) - Converts invoice XML into a locally generated PDF with live preview and download.
+- Tanod e-Invoice Viewers - [XRechnung](https://tanod.dev/tools/xrechnung-viewer/), [ZUGFeRD / Factur-X](https://tanod.dev/tools/zugferd-factur-x-viewer/), [FatturaPA](https://tanod.dev/tools/fatturapa-viewer/), [Peppol / UBL](https://tanod.dev/tools/peppol-ubl-invoice-viewer/), [KSeF](https://tanod.dev/tools/ksef-viewer/), [e-Fatura](https://tanod.dev/tools/e-fatura-ubl-tr-viewer/), [Vietnam](https://tanod.dev/tools/vietnam-e-invoice-viewer/), [CFDI](https://tanod.dev/tools/cfdi-viewer/) - Open invoice XML as a readable invoice in the browser; nothing is uploaded.
 
 <p align="right"><a href="#contents"><b>↥ back to top ↥</b></a></p>
 
